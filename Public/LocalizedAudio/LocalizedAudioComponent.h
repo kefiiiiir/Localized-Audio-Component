@@ -14,7 +14,7 @@
  * а конкретные звуки назначаются в редакторе.
  */
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class BACKROOMSREPO_API ULocalizedAudioComponent : public UActorComponent
+class YOURGAME_API ULocalizedAudioComponent : public UActorComponent
 {
 	GENERATED_BODY()
 
