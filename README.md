@@ -1,4 +1,4 @@
-# LocalizedAudioComponent (RU)
+# LocalizedAudioComponent
 
 Небольшой набор типов для выбора звуков по текущему языку игры (Unreal Engine).
 
